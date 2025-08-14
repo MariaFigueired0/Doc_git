@@ -1,3 +1,3 @@
 function mudarTexto() {
-    document.getElementById('h1').innerHTML = "Você clicou no botão!";
+    document.getElementById('h1').innerHTML = "Você fez uma alteração!(hotfix)"
 }
